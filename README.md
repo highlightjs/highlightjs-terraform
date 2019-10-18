@@ -4,7 +4,7 @@
 
 * Three files are required.
 
-    -  A style `.css` file
+    -  A style `.css` file.
 
     - The `highlight.pack.js` file.
 
@@ -16,7 +16,7 @@
 
 2. Head to the [Highlightjs download page](https://highlightjs.org/download/).
 
-3.Under the heading **Custom package**, **Click** download.
+3. Under the heading **Custom package**, **Click** download.
 
 4. Extract the downloaded `.zip` file.
 
