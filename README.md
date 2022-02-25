@@ -34,7 +34,7 @@
     <script type="text/javascript" src="/path/to/terraform.js"></script>
     <script type="text/javascript">
         hljs.registerLanguage('terraform', window.hljsDefineTerraform);
-        hljs.initHighlightingOnLoad();
+        hljs.highlightAll();
     </script>
     ```
 
