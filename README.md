@@ -1,3 +1,9 @@
+![](https://badgen.net/badge/maintainer/needed/red?icon=github&scale=2)
+
+This project is currently in need of a maintainer.  If you're interested please open an issue in the main Highlight.js project.
+
+---
+
 # Highlightjs-Terraform
 
 ## Usage
