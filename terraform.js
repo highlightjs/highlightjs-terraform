@@ -70,7 +70,11 @@ function hljsDefineTerraform(hljs) {
 
 return {
 	aliases: ['tf', 'hcl'],
-	keywords: 'resource variable provider output locals module data terraform|10',
+	keywords: {
+		keyword: 'resource variable provider output locals module data terraform|10 backend var local',
+		type: 'string number object map list set',
+		literal: 'false true null'
+	},
 	literal: 'false true null',
 	contains: [
    		hljs.COMMENT('\\#', '$'),
